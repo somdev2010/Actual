@@ -4,7 +4,8 @@ int main(){
    int height;
    cout << "Enter the height:"<< endl;
    cin >> height;
-   for (int j=0; j<=height;j++)
+   for (int j=0; j>height;j++)
+   //++=plus 1
    {
     for(int i=0; i<=j; i++)
     {
