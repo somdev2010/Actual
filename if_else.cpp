@@ -2,6 +2,7 @@
 using namespace std;
 int main(){
     int a;
+    cout<<"Input a number: ";
     cin>>a;
     if (a%2==0){
         cout<<"The number is even";
@@ -11,3 +12,4 @@ int main(){
 return 0;
 }
 //even-odd check
+
