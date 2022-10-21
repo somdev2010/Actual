@@ -16,10 +16,10 @@ int main()
     switch (input)
     {
     case 1:
-        cout<<a+b<<endl;
+        cout<<abs(a-b)<<endl;
         break;
     case 2:
-        cout<<abs(a-b)<<endl;
+        cout<<a+b<<endl;
         break;
     case 3:
         cout<<a*b<<endl; 

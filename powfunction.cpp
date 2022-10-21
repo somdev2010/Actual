@@ -2,7 +2,7 @@
 #include<math.h>
 using namespace std;
 int main(){
-    int a;552
+    int a=552;
     cout<<"Give a number";
     cin>>a;
     //a^5
